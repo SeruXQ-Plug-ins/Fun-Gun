@@ -1,0 +1,6 @@
+name: FunGun
+author: SanhakFromSeruXQDevelopmentTeam
+main: me.sanhak.fungun.main.Main
+version: 0.3
+commands:
+  reloadconfig: 
