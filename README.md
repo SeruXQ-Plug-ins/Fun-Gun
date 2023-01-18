@@ -12,7 +12,6 @@ This plug-in is considered a plug-in blog based on the Spigot-API library, and i
   <li>Start the server </li>
 </ul>  
 
-You can edit it also from config.yml
 
 ##  Contents of Plug-in
 
@@ -52,4 +51,4 @@ Fun-Gun:
 
 ## Images & Video
 
-
+[Click here to see Video](https://www.youtube.com/watch?v=7eu5r9-bbzY)
