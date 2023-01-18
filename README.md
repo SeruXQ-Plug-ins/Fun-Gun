@@ -52,3 +52,8 @@ Fun-Gun:
 ## Images & Video
 
 [Click here to see Video](https://www.youtube.com/watch?v=7eu5r9-bbzY)
+
+![Screenshot_58](https://user-images.githubusercontent.com/104179839/213108829-15220cdf-752f-42e2-8296-53c0a660f8d8.png)
+
+
+![Screenshot_59](https://user-images.githubusercontent.com/104179839/213108869-f2fce125-3438-467f-825b-44811e47ad68.png)
