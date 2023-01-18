@@ -14,7 +14,3 @@ This plug-in is considered a plug-in blog based on the Spigot-API library, and i
 </ul>  
 
 
-# Video
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=7eu5r9-bbzY"><img src="https://img.youtube.com/vi/7eu5r9-bbzY/0.jpg" alt="VIDEO"></a>
-</div>
