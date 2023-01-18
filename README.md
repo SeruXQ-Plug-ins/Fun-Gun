@@ -10,7 +10,6 @@ This plug-in is considered a plug-in blog based on the Spigot-API library, and i
 <ul>
   <li>Add plug-in to plugins folder </li>
   <li>Reload the server </li>
-  <li>Have fun</li>
 </ul>  
 
 
