@@ -89,6 +89,12 @@ public class InteractEvent implements Listener {
 				p.playSound(p.getLocation(), Sound.LEVEL_UP, 15.0f, 15.0f);
 				t.cancel();
 			}
+			if (count < 0) {
+				p.getInventory().remove(Items.Reload());
+				PlayerInventory pi = p.getInventory();
+				pi.setItem(Main.getMain().getConfig().getInt("Fun-Gun.Join-Slot"), Items.FunGun());
+				t.cancel();
+			}
 			count--;
 			BarAPI.send(p, Methods.f("&fPlease wait &a" + count + " &fs to use &6&lFUN-GUN &fagain !"));
 			p.playSound(p.getLocation(), Sound.CLICK, 15.0f, 15.0f);
